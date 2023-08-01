@@ -1,6 +1,6 @@
 package org.example.structural.flyweight.solution;
 
-import org.example.designPatterns.structural.flyweight.solution.Sprites;
+import org.example.structural.flyweight.solution.Sprites;
 
 import java.util.HashMap;
 import java.util.Map;
