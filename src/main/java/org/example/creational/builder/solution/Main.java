@@ -1,4 +1,4 @@
-package org.example.builder.solution;
+package org.example.creational.builder.solution;
 
 public class Main {
 

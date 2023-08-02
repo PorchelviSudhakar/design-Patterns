@@ -1,4 +1,4 @@
-package org.example.builder.problem;
+package org.example.creational.builder.problem;
 
 public class Employee {
 
